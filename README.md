@@ -1,2 +1,1 @@
-# ms42
-Siemens MS42
+# Siemens MS42
